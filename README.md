@@ -26,16 +26,17 @@
     support of one of the projects as a lead developer
   </h4>
 </div>
-<div id="postgresql">
+<div id="fastapi">
   <h4>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100">
+  <img src="https://timeweb.com/ru/community/article/6a/6aec84e99f708bc438b913c3089e18ae.png" width="100">
+  
     
     Use as the main database for projects
   </h4>
 </div>
-<div id="fastapi">
+<div id="postgresql">
   <h4>
-  <img src="https://timeweb.com/ru/community/article/6a/6aec84e99f708bc438b913c3089e18ae.png" width="100">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100">
     
     Wrote the project "Auction"
     Writing business processes to manage the user and his participate in the auction
