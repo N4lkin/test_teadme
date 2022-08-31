@@ -52,6 +52,6 @@
   
 <div id="stack">
   <h6>
-    All my stack: Django|FrameworkDjango Rest Framework|PostgreSQL|Celery|Redis|Python|Docker|Asyncio|SQL|MongoDB|pytest|FastAPI|SQLAlchemy
+    All my stack: Django | FrameworkDjango Rest Framework | PostgreSQL | Celery | Redis | Python | Docker | Asyncio | SQL | MongoDB | pytest | FastAPI | SQLAlchemy
   </h6>
 </div>
