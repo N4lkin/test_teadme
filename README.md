@@ -16,6 +16,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>
-  I'm a Python Developer with one year experience
-  A
+  I'm a Python Developer with experience with tools such as
 </h2>
+<div id="stack">
+  <img src="https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17">
+</div>
