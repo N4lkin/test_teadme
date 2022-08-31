@@ -20,4 +20,8 @@
 </h2>
 <div id="stack">
   <img src="https://blog.skillfactory.ru/wp-content/uploads/2022/03/django_logo.svg-1594273.png" width="100">
+  <img src="https://daniel.feldroy.com/images/drf.png" width="100">
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100">
+  <img src="https://timeweb.com/ru/community/article/6a/6aec84e99f708bc438b913c3089e18ae.png" width="100">
+  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" width="100">
 </div>
