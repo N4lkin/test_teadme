@@ -23,8 +23,10 @@
   <img src="https://blog.skillfactory.ru/wp-content/uploads/2022/03/django_logo.svg-1594273.png" width="100">
   <img src="https://daniel.feldroy.com/images/drf.png" width="100">
     
-    
-    qwewqeqwqw
+    API development and structuring
+    Developed a personnel control system within the company
+    Development and implementation of workflow business processes
+    support of one of the projects as a lead developer
   </h4>
 </div>
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100">
