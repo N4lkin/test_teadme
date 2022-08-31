@@ -11,6 +11,10 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=n4lkin&label=Visitors&color=29d1a7&style=flat" alt="n4lkin" /> </p>
+  
+</div>
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -58,4 +62,3 @@
     Python 3.x
   </h5>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=n4lkin&label=Visitors&color=29d1a7&style=flat" alt="n4lkin" /> </p>
