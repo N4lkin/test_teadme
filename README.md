@@ -2,14 +2,17 @@
   <img src="https://media1.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif?cid=ecf05e47o7lgjvr9v3rexfhsrkgmvg5fou2s1c76e6k919og&rid=giphy.gif&ct=gf" width="300"/>
 <div id="badges">
   
-  <a href="https://www.linkedin.com/in/ilya-brodovoi-019272248/"
+  <a href="https://www.linkedin.com/in/ilya-brodovoi-019272248/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <a href="https://github.com/N4lkin"
+  <a href="https://github.com/N4lkin">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   
+  <a href="https://t.me/N4lkin">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
   
 </div>
