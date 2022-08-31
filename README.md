@@ -31,7 +31,7 @@
   <img src="https://timeweb.com/ru/community/article/6a/6aec84e99f708bc438b913c3089e18ae.png" width="100">
   
     
-    Use as the main database for projects
+    Using as the main database for projects
   </h4>
 </div>
 <div id="postgresql">
