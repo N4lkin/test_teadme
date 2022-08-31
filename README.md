@@ -15,9 +15,6 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2>
-  I'm a Python Developer with experience with tools such as
-</h2>
 <div id="django">
   <h4>
   <img src="https://blog.skillfactory.ru/wp-content/uploads/2022/03/django_logo.svg-1594273.png" width="100">
