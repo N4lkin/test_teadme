@@ -19,8 +19,9 @@
   I'm a Python Developer with experience with tools such as
 </h2>
 <div id="django">
-  <img src="https://blog.skillfactory.ru/wp-content/uploads/2022/03/django_logo.svg-1594273.png" width="100">
   <h4>
+  <img src="https://blog.skillfactory.ru/wp-content/uploads/2022/03/django_logo.svg-1594273.png" width="100">
+    
     qwewqeqwqw
   </h4>
 </div>
